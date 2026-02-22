@@ -1,0 +1,51 @@
+Gmail Stagger Snooze — Installation Instructions
+==================================================
+
+WHAT YOU NEED
+-------------
+- Google Chrome browser
+- This folder (you already have it!)
+
+
+STEPS
+-----
+1. Open Google Chrome
+
+2. Type this in the address bar and hit Enter:
+      chrome://extensions/
+
+3. In the top right corner, turn on "Developer mode"
+   (it's a toggle switch — click it so it turns blue)
+
+4. Click the "Load unpacked" button
+   (it appears on the left after you enable Developer mode)
+
+5. A file picker will open — find and select this folder
+   (the one containing this file) and click Open
+
+6. You should see "Gmail Stagger Snooze" appear on the page
+   with a blue toggle — make sure it's turned on
+
+7. Go to Gmail (mail.google.com)
+
+8. Look for the 💤 button in the bottom right corner of Gmail
+   Click it to get started!
+
+
+THAT'S IT!
+----------
+You do not need to create any accounts or install anything else.
+The extension runs entirely in your browser.
+
+If you have questions about how to use it, click the ❓ button
+inside the extension panel once it's installed.
+
+
+TROUBLESHOOTING
+---------------
+- Don't see the 💤 button? Try refreshing Gmail after installing.
+- Extension not loading? Make sure Developer mode is turned ON
+  at chrome://extensions/ and the toggle next to the extension is blue.
+- Something broken after a Gmail update? Go to chrome://extensions/,
+  find Gmail Stagger Snooze, and click the refresh icon on its card.
+  Then reload Gmail.
