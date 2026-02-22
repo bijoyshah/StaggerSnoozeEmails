@@ -335,8 +335,8 @@ function staggerSnooze(minuteIncrement, startTime) {
                 snoozeNext(index + 1);
               }
             }, 100);
-          }, 100);
-        }, 100);
+          }, 300);
+        }, 300);
       }, 100);
     }, 100);
   }
